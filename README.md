@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Victormuthomi
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning python crash course 
+- 👀 I’m a web developer
+- 🌱 I’m currently the django framework
 - 💞️ I’m looking to collaborate onweb development 
 - 📫 How to reach me Gmail at victormuthomi100@gmail.com
 
