@@ -1,6 +1,6 @@
 # Hello, I'm Victor Muthomi 👋
 
-I'm a Python Django Developer with a passion for creating efficient and scalable web applications.
+I'm a Python Developer with a passion for creating efficient and scalable web applications.
 
 ## 🛠 Skills
 - Proficient in Python and Django.
