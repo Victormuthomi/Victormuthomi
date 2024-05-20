@@ -1,20 +1,41 @@
 # Hello, I'm Victor Muthomi 👋
 
-I'm a Python Developer with a passion for creating efficient and scalable web applications.
+I'm a Python Developer, an IT Student, and a Self-Taught Software Developer.
 
-## 🛠 Skills
-- Proficient in Python and Django.
-- Basic knowledge of front-end technologies like HTML, CSS, and JavaScript.
-- Familiarity with databases (SQL, PostgreSQL, MongoDB).
-- Knowledge of version control systems (Git, GitHub).
+## 📫 How to reach me
+- Email: victormuthomi100@gmail.com
+- Github: Victor Muthomi
+- Phone Number: +254 758 40 72 85 
 
-## 📚 Projects
-Here are some of the projects I've worked on:
+## 💼 Experience
+- Python Software Developer (2 years)
+- Django Back-end Developer (1 year)
 
-1. **Online Book Summary**: A web application that allows users to register an account and add topics along with their summaries.
-2. **Airbnb Project**: A web application that lists Airbnb properties and moving services. Users can view property details, check availability, and book properties or services.
-3. **Age Counter**: A Python program that calculates the age of a user given their birth date.
-4. **Team Scheduler**: A Python program that allows users to input teams and automatically groups them into various groups.
+## 🌱 Skills and Abilities
+- Python and Django
+- Software Development
+- Problem Solving
+- Front-end technologies (HTML, CSS, JavaScript)
+- Databases (SQL, PostgreSQL, MongoDB)
+- Application Hosting (Render, Platform.sh)
+- Version Control Systems (Git, GitHub)
+- Communication Skills
+- Time Management
+- Adaptability
+
+## 📚 Education
+- Introduction to C Programming
+- IT Course
+- Self-taught Python and Django Developer
+- Pro Python
+
+## 🚀 Projects
+- Online Book Summary
+- Airbnb Project
+- Cab Booking System
+- Bank Management System
+- School Management System
+
 
 ## 📫 How to reach me
 Feel free to reach out to me for any opportunities, questions, or just for a chat!
