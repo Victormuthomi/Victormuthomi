@@ -1,6 +1,6 @@
 # Hello, I'm Victor Muthomi 👋
 
-I'm a Python Developer, an IT Student, and a Self-Taught Software Developer.
+I'm  a Software Developer.
 
 ## 📫 How to reach me
 - Email: victormuthomi100@gmail.com
