@@ -1,9 +1,3 @@
-
-
-Here's an updated version with icons added to the technologies and languages:
-
----
-
 # Hello, I'm Victor Muthomi 👋  
 I'm a **Full Stack Developer** with expertise in the MERN stack and Python/Django.  
 
@@ -59,6 +53,3 @@ I'm a **Full Stack Developer** with expertise in the MERN stack and Python/Djang
 ## ⚡ Fun fact  
 I love going for nature walks while listening to Rhumba jams. It's a perfect blend of relaxation and rhythm for me!  
 
----  
-
-Let me know if you'd like further modifications!
