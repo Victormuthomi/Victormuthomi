@@ -78,7 +78,7 @@
   *Go (Gin) + React + PostgreSQL*  
   Social media platform for developers to share projects, GitHub profiles, jobs, and more.  
 
-- **Tuvote** — [GitHub](#) |[Live](https://tuvote-frontend.vercel.app/)  
+- **Tuvote** — [Live](https://tuvote-frontend.vercel.app/)  
   *MERN Stack*  
   Secure online voting platform for communities and organizations.  
 
