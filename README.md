@@ -1,6 +1,6 @@
-# Victor Muthomi 👋  
-**Full Stack Developer | Backend-Focused**  
-*MongoDB, Express.js, React, Node.js (MERN) | PostgreSQL, Express.js, React, Node.js (PERN) | Next.js | TypeScript | Prisma | Django | Go (Gin)*  
+# Muthomi Victor 👋  
+**Backend Developer | Building Reliable APIs & Scalable Systems**  
+*Node.js | TypeScript | Go (Gin) | Python (Django/DRF) | PostgreSQL | MongoDB | Docker | Kubernetes*  
 
 ---
 
@@ -15,15 +15,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-ff69b4?style=for-the-badge)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### DevOps & Hosting
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -40,23 +31,20 @@
 
 ## 💼 Experience
 
-- **Full-Stack Developer @ Eleli Afrika** — 2024 – 2025  
-  Delivered fullstack solutions while streamlining deployment workflows:  
-  - Automated CI/CD pipelines with GitHub Actions, reducing deployment errors by 50% and accelerating release cycles.  
-  - Built and maintained microservices and backend APIs using **Node.js, TypeScript, Go (Gin), and Python/Django**.  
-  - Implemented frontend features and dashboards with **React**, bridging user experience with backend logic.  
-  - Deployed scalable production environments using **Docker, Kubernetes**, and infrastructure as code tools like **Terraform**.  
+- **Backend-Focused Full-Stack Developer @ Eleli Afrika** — 2024 – 2025  
+  - Automated CI/CD pipelines with GitHub Actions, reducing deployment errors by 50%.  
+  - Built and maintained microservices and backend APIs using **Node.js, TypeScript, Go (Gin), and Django/DRF**.  
+  - Deployed scalable systems using **Docker, Kubernetes**, and IaC tools like **Terraform**.  
 
-- **Full-Stack Developer @ Bandika IoT** — 2023 – 2024  
-  - Developed IoT dashboards with React for real-time device monitoring.  
+- **Backend Developer @ Bandika IoT** — 2023 – 2024  
   - Built REST APIs with Node.js (Express) and Go (Gin).  
-  - Implemented containerized deployments using Docker and Docker Compose.  
-  - Collaborated across teams to bridge development and operational workflows.  
+  - Designed IoT data pipelines and real-time APIs.  
+  - Containerized services with Docker & Docker Compose.  
 
 - **Backend Developer @ Kisumu Lakeside Homes** — 2022 – 2023  
-  - Built REST APIs with Django and Django REST Framework, implementing robust authentication systems.  
-  - Optimized database queries, improving system performance and reducing response times by 30%.  
-  - Gained early exposure to deployment workflows, laying the foundation for DevOps practices.  
+  - Built robust APIs with Django REST Framework.  
+  - Optimized SQL queries, reducing response times by 30%.  
+  - Introduced early DevOps workflows for smoother deployments.  
 
 ---
 
@@ -64,43 +52,33 @@
 
 - **Ajirinow** — [Live](https://ajirinow.vercel.app/)  
   *DRF + React + PostgreSQL*  
-  A startup helping clients find construction workers quickly, or post jobs to get workers.  
-
-- **Razorbill & SportGPT** — [Live](https://razorbill-website.vercel.app/)  
-  *MERN Stack*  
-  Multi-platform streaming for free-to-air sports matches + AI model answering sport questions.  
+  Platform connecting clients with construction workers or job postings.  
 
 - **Rotaflow** — [Live](https://rotaflow-frontend.vercel.app/)  
   *PERN Stack*  
-  Business tool for assigning roles and scheduling workers based on given rules.  
+  Scheduling system for assigning roles and managing workers.  
 
 - **GitConnect** — [Live](https://gitconnect-frontend.vercel.app/)  
   *Go (Gin) + React + PostgreSQL*  
-  Social media platform for developers to share projects, GitHub profiles, jobs, and more.  
+  Social platform for developers to share projects, profiles, and jobs.  
 
 - **Tuvote** — [Live](https://tuvote-frontend.vercel.app/)  
   *MERN Stack*  
-  Secure online voting platform for communities and organizations.  
+  Secure online voting solution for organizations and communities.  
 
 ---
 
 ## 📚 Education & Learning
-- **Self-Taught Developer**  
-  Continuously expanding my skills through hands-on projects and the latest industry practices.
+- **Self-Taught Backend Developer**  
+  Learning through building, shipping projects, and solving real-world problems.
 
 ---
 
 ## 📫 Contact
-- **Email:** [victormuthomi100@gmail.com](mailto:victormuthomi100@gmail.com)
-- **Phone:** +254 758 40 72 85
-- **Portfolio:** [VictorMuthomi](https://victormuthomi.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/victormuthomi](https://www.linkedin.com/in/victormuthomi)
+- **Email:** [muthomi.victor.dev@gmail.com](mailto:muthomi.victor.dev@gmail.com)  
+- **Phone:** +2547102 102 58 
 
 ---
 
 ## ⚡ Fun Fact
-I enjoy nature walks paired with Rhumba music—a perfect blend of relaxation and rhythm.
-
----
-
-*Thank you for visiting my profile. Let's connect and collaborate on innovative projects!*
+Backend APIs are like unsung heroes — no one sees them, but without them, nothing works.  
