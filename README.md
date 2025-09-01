@@ -99,7 +99,7 @@
 ---
 
 ## 📫 Contact
-- **Portfolio:** [Muthomi Victor](muthomivictor.vercel.app/)  
+- **Portfolio:** [Muthomi Victor](https://muthomivictor.vercel.app/)  
 - **Email:** [muthomi.victor.dev@gmail.com](mailto:muthomi.victor.dev@gmail.com)  
 - **Phone:** +2547102 102 58 
 
