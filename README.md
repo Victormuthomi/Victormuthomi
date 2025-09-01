@@ -1,6 +1,8 @@
-# Muthomi Victor 👋  
+# Muthomi Victor 👋
 **Backend Developer | Building Reliable APIs & Scalable Systems**  
-*Node.js | TypeScript | Go (Gin) | Python (Django/DRF) | PostgreSQL | MongoDB | Docker | Kubernetes*  
+*Specializing in Node.js, TypeScript, Go (Gin), Python (Django/DRF), PostgreSQL, MongoDB, Docker & Kubernetes*
+
+---
 
 ---
 
@@ -16,7 +18,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-ff69b4?style=for-the-badge)
 
-### DevOps & Hosting
+### DevOps & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -31,46 +33,63 @@
 
 ## 💼 Experience
 
-- **Backend-Focused Full-Stack Developer @ Eleli Afrika** — 2024 – 2025  
-  - Automated CI/CD pipelines with GitHub Actions, reducing deployment errors by 50%.  
-  - Built and maintained microservices and backend APIs using **Node.js, TypeScript, Go (Gin), and Django/DRF**.  
-  - Deployed scalable systems using **Docker, Kubernetes**, and IaC tools like **Terraform**.  
+- **Backend-Focused Full-Stack Developer @ Eleli Afrika (Freelance Projects)** — 2024 – 2025  
+  - Delivered backend solutions for multiple clients, automating CI/CD pipelines with GitHub Actions and reducing deployment errors by 50%.  
+  - Built and maintained microservices and backend APIs using **Node.js, TypeScript, Go (Gin), and Django REST Framework**.  
+  - Deployed scalable systems using **Docker, Kubernetes**, and IaC tools like **Terraform**, demonstrating end-to-end freelance project handling.
 
-- **Backend Developer @ Bandika IoT** — 2023 – 2024  
-  - Built REST APIs with Node.js (Express) and Go (Gin).  
-  - Designed IoT data pipelines and real-time APIs.  
-  - Containerized services with Docker & Docker Compose.  
+- **Backend Developer (Freelance) @ Bandika Creative Agency** — 2023 – 2024  
+  - Handled backend development across multiple client projects using **Node.js (Express) and Go (Gin)**.  
+  - Designed and implemented complex business logic for diverse industries.  
+  - Containerized services with Docker & Docker Compose and managed client deliverables independently.  
 
 - **Backend Developer @ Kisumu Lakeside Homes** — 2022 – 2023  
-  - Built robust APIs with Django REST Framework.  
+  - Built robust APIs with **Django REST Framework**.  
   - Optimized SQL queries, reducing response times by 30%.  
-  - Introduced early DevOps workflows for smoother deployments.  
+  - Introduced early DevOps workflows to improve deployment consistency.
+
+- **Ajirinow — Founder & Backend Lead** — 2025  
+  - Planned and implemented all aspects of the platform as an indie hacker: backend, database design, and DevOps pipelines.  
+  - Built a scalable backend connecting construction workers to clients using **Django REST Framework, PostgreSQL, Docker, and Kubernetes**.  
+  - Delivered a fully functional MVP, demonstrating end-to-end self-taught engineering capability and readiness for launch.
+
 
 ---
 
 ## 🚀 Projects
 
 - **Ajirinow** — [Live](https://ajirinow.vercel.app/)  
-  *DRF + React + PostgreSQL*  
-  Platform connecting clients with construction workers or job postings.  
+  *Founder & Backend Lead | Django REST Framework + PostgreSQL + Docker + Kubernetes*  
+  Platform connecting clients with construction workers. Clients can post jobs, and businesses can post ads. Built MVP independently, handling backend, database, and DevOps pipelines.
 
 - **Rotaflow** — [Live](https://rotaflow-frontend.vercel.app/)  
-  *PERN Stack*  
-  Scheduling system for assigning roles and managing workers.  
+  *PERN Stack | Backend & API Development*  
+  Scheduling system for assigning roles and managing workers. Designed RESTful APIs and database models, enabling smooth management of workforce schedules.
 
 - **GitConnect** — [Live](https://gitconnect-frontend.vercel.app/)  
   *Go (Gin) + React + PostgreSQL*  
-  Social platform for developers to share projects, profiles, and jobs.  
+  Social platform for developers to share projects, profiles, and job opportunities. Built backend APIs and integrated authentication, data relationships, and real-time features.
 
 - **Tuvote** — [Live](https://tuvote-frontend.vercel.app/)  
-  *MERN Stack*  
-  Secure online voting solution for organizations and communities.  
+  *MERN Stack | Backend & Security Focus*  
+  Secure online voting solution for organizations and communities. Developed backend API, authentication, and vote tallying system ensuring data integrity and security.
 
 ---
 
+## 📊 GitHub Stats
+
+![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Victormuthomi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Victormuthomi&layout=compact&theme=radical)
+
+---
 ## 📚 Education & Learning
+
 - **Self-Taught Backend Developer**  
-  Learning through building, shipping projects, and solving real-world problems.
+  Driven by curiosity and practical problem-solving, I have mastered backend development through:
+  - Building and shipping real-world projects end-to-end  
+  - Deep dives into official documentation and technical guides  
+  - Online courses and tutorials focused on scalable systems  
+  - Continuous experimentation with modern backend technologies, DevOps, and deployment pipelines
 
 ---
 
@@ -79,6 +98,6 @@
 - **Phone:** +2547102 102 58 
 
 ---
-
 ## ⚡ Fun Fact
-Backend APIs are like unsung heroes — no one sees them, but without them, nothing works.  
+I am a self-taught tech nerd who builds backend systems quietly saving the world, one request at a time. I am curious enough to explore anything new, stubborn enough to fix the unfixable, and human enough to celebrate when a deploy actually works.
+
