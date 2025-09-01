@@ -74,6 +74,11 @@
   *MERN Stack | Backend & Security Focus*  
   Secure online voting solution for organizations and communities. Developed backend API, authentication, and vote tallying system ensuring data integrity and security.
 
+  - **GoChat** — [Live](https://chat-system-5ppc.onrender.com/)  
+  *Go (Gin) | WebSockets | Open Source*  
+  Lightweight real-time peer-to-peer chat system using WebSockets. Built with Go and Gin, featuring ephemeral messaging (no persistence) and a simple HTML client for instant communication.
+
+
 ---
 
 ## 📊 GitHub Stats
