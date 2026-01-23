@@ -67,7 +67,7 @@ I explore the frontend to connect humans with machines and embrace DevOps to ens
 **MO-Jobs (Ajirinow) — Job Marketplace**  
 *Django REST Framework + PostgreSQL + React*  
 - MVP connecting clients with skilled workers; backend & frontend fully developed.  
-[Live](https://ajirinow.vercel.app/) | [GitHub](https://github.com/Victormuthomi/ajirinow-backend)  
+[Live](https://mojobs.vercel.app/) | [GitHub](https://github.com/Victormuthomi/ajirinow-backend)  
 
 **Other Projects:** RotaFlow | RazorBlogs — see portfolio for links.
 
