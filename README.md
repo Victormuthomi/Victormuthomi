@@ -73,9 +73,16 @@ I explore the frontend to connect humans with machines and embrace DevOps to ens
 
 ---
 
+## 📊 GitHub Stats
+
+![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Victormuthomi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Victormuthomi&layout=compact&theme=radical)
+
+---
+
 ## 📚 Education
 **Self-Taught Full-Stack Developer** — Online Learning | 2022–Present  
-- Exploring modern technologies and AI-driven workflows  
+- Continuously exploring new technologies and AI-driven workflows  
 - Building end-to-end systems from scratch  
 
 ---
