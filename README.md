@@ -1,94 +1,47 @@
-# Victor Muthomi 👋 — The Alcodist
-*Crafting systems where logic breathes, ideas scale, and code comes alive.*
+# ♾️ Muthomi Victor — The Alcodist
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://muthomivictor.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]
-
----
-
-## 💡 About Me
-I am **The Alcodist** — a full-stack engineer who began at the core: backend. I speak the language of logic, data, and architecture. From APIs to scalable systems, I craft code that is **reliable, maintainable, and alive**.  
-
-I explore the frontend to connect humans with machines and embrace DevOps to ensure delivery with precision. I thrive on **autonomous, high-impact projects**, integrating AI-driven features and designing systems that **scale gracefully in the real world**.
+> **System Status:** Operational  
+> **Specialization:** Systems Architecture | Distributed Backends | AI Integration
 
 ---
 
-## 💻 Core Skills
+## 🏛️ The Manifesto
+I architect systems where logic is resilient and code is alive. My focus is on **idempotency, scalability, and structural integrity**. I don't just build features; I engineer environments that scale gracefully under load.
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-ff69b4?style=for-the-badge)
+### 📡 System Uplink
+All detailed build logs, technical manifestos, and deep-dive project documentation have been migrated to the primary terminal:
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge)
-![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge)
+👉 **[EXPLORE ALCODIST_OS](https://muthomivictor.vercel.app/)**
 
 ---
 
-## 💼 Experience
+## 🛠️ Tech Stack Matrix
 
-**Full-Stack Software Engineer — Freelance Projects @ Eleli Afrika** | 2024–2025  
-- Architected end-to-end solutions: backend APIs to production-ready frontend.  
-- Deployed cloud-native systems using **Docker/Kubernetes**, improving reliability.  
-- Experimented with AI-driven features via **OpenAI API**.
-
-**Freelance Backend & Frontend Developer** | 2023–2024  
-- Built backend services using **Node.js (Express), Django, Go (Gin)**.  
-- Developed responsive interfaces with React & Tailwind CSS.  
-- Containerized applications and deployed via Docker.
+| Layer | Technologies |
+| :--- | :--- |
+| **Logic** | Go (Gin), Node.js (NestJS, Express), TypeScript, Python (Django) |
+| **Data** | PostgreSQL, MongoDB, Redis |
+| **Interface** | React, Next.js, Tailwind CSS |
+| **Infrastructure** | Docker, Kubernetes, GitHub Actions, AWS |
 
 ---
 
-## 🚀 Featured Projects
-
-**RazorGPT — AI-powered Sports Q&A**  
-*Node.js + OpenAI API + React*  
-- Intelligent real-time sports responses via OpenAI API.  
-[Live](https://razorbill-website.vercel.app/sportgpt) | [GitHub](https://github.com/Victormuthomi/razorbill-backend-old)  
-
-**Alcodist Academy — Online Learning Platform**  
-*NestJS + React + MongoDB*  
-- Trainee registration, progress journals, and dashboards.  
-[Live](https://alcodist-academy.vercel.app/) | [GitHub](https://github.com/Victormuthomi/academy-backend)  
-
-**MO-Jobs (Ajirinow) — Job Marketplace**  
-*Django REST Framework + PostgreSQL + React*  
-- MVP connecting clients with skilled workers; backend & frontend fully developed.  
-[Live](https://mojobs.vercel.app/) | [GitHub](https://github.com/Victormuthomi/ajirinow-backend)  
-
-**Other Projects:** RotaFlow | RazorBlogs — see portfolio for links.
+## 📁 Featured Build Logs
+* **RazorGPT** — High-concurrency AI-powered sports engine.
+* **Ajirinow (MO-Jobs)** — Marketplace architecture for distributed labor.
+* **Alcodist Academy** — Scalable educational infrastructure.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 System Metrics
 
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Victormuthomi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Victormuthomi&layout=compact&theme=radical)
-
----
-
-## 📚 Education
-**Self-Taught Full-Stack Developer** — Online Learning | 2022–Present  
-- Continuously exploring new technologies and AI-driven workflows  
-- Building end-to-end systems from scratch  
+![Muthomi's Stats](https://github-readme-stats.vercel.app/api?username=Victormuthomi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=f59e0b&text_color=71717a)
 
 ---
 
-## 📫 Contact
-- **Email:** victor.muthomi.alcodist@gmail.com  
-- **Phone:** +254 758 407 285  
-- **Portfolio:** [muthomivictor.vercel.app](https://muthomivictor.vercel.app/)  
-- **GitHub:** [Victormuthomi](https://github.com/Victormuthomi)
+## 📞 Terminal Access
+- **Email:** `victor.muthomi.alcodist@gmail.com`
+- **Signal:** [+254 758 407 285](https://wa.me/254758407285)
+- **Node:** [muthomivictor.vercel.app](https://muthomivictor.vercel.app/)
+
+`// End of Transmission. Everything else is in the portfolio.`
