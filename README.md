@@ -21,7 +21,7 @@ All high-fidelity telemetry, cinematic archives, and open-source community logs 
 | :--- | :--- | :--- |
 | **[Alcodist Hub](https://github.com/Victormuthomi/razorbill-website)** | Federated Media Gateway | React, Vite, Tailwind, Capacitor |
 | **[Alcodist Lab](https://github.com/Victormuthomi/alcodist-lab-new)** | Microservices Playground | NestJS, TCP Gateway, Docker |
-| **[Razorblog Backend](https://github.com/Victormuthomi/razorblog-backend)** | Community Content Engine | Go (Golang), Swagger, PostgreSQL |
+| **[Razorblog Backend](https://github.com/Victormuthomi/razorblog-backend)** | Community Content Engine | Go (Golang), Swagger, MongoDB |
 
 ---
 
